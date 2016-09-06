@@ -4,7 +4,7 @@
 }
 .ct-form-newsletter {
     text-align: center;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 2.5rem;
     line-height: 1;
     text-transform: uppercase;
@@ -54,7 +54,7 @@
     border: 5px solid #fff;
 }
 .btn {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 0.950em;
     text-transform: uppercase;
     border-radius: 0;
